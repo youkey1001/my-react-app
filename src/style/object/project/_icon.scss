@@ -1,0 +1,19 @@
+.p-icon-big {
+    border: 2px solid red;
+    border-radius: 50%;
+    background-position: center center;
+    height: 156px;
+    width: 156px;
+    object-fit: cover;
+    position: relative;
+
+    img {
+        border-radius: 50%;
+        height: 148px;
+        left: 2px;
+        object-fit: cover;
+        position: absolute;
+        top: 2px;
+        width: 148px;
+    }
+}
